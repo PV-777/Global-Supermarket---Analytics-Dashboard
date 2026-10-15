@@ -2,7 +2,7 @@
 
 Executive Financial Performance &amp; What-If Sensitivity Analytics Dashboard built in Microsoft Excel.
 
-🔗 *[🚀 Launch Live Interactive Web Demo (OneDrive)](https://1drv.ms/x/c/dd3bf9057928e729/IQBPGep8GyvUSZoCnJoXfUoRAQRZJWgmxjyKVZwTTUQpes8?e=D0clCL)*
+🔗 *[🚀 Launch Live Interactive Web Demo (OneDrive)](https://1drv.ms/x/c/dd3bf9057928e729/IQDN7k1vZDFwTKUy7KrQ7Mo6Acg3xoh9D4ie2oDqdvd1hKI?e=mTIEsC)*
 
 ## 🎯 Executive Summary
 An end-to-end corporate financial analytics solution built in Microsoft Excel using 50,000+ Global Superstore records. The dashboard provides executive leadership with immediate clarity on revenue performance, regional margins, and product profitability, paired with a What-If sensitivity simulator to evaluate discount strategies.
